@@ -1,0 +1,126 @@
+@import url('https://fonts.googleapis.com/css2?family=Italiana&family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap');
+
+body{ 
+    background-color: #cfbea1;
+    font-family: "Italiana", 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: white;
+    min-width: 1200px;
+    margin-left: 436px;
+    margin-right: 436px;
+}
+
+
+main{    
+    display: flex;
+    }
+ 
+
+ #hero-banner{
+        width: 764px;
+        height: 261px;
+        display: flex;
+        justify-content: center;
+        margin: 0px 0px 0px 0px;
+        padding: 0px 0px 0px 0px;
+    }
+
+        header nav{
+            background-color: #823433;
+            height: 50px;
+            width: 764px;
+            display: flex;
+            justify-content: space-between;
+            align-items: end;
+            }
+
+        header nav a{
+            text-decoration: none;
+            background-color: #823433;
+            color: white;
+            display: flex-end;
+            justify-content: end;
+            padding: 3px;
+            margin-right: 10px;
+            align-items: end;
+            }
+                header nav a:hover{
+                    background-color: #633736;
+                    color: white;
+                    transition: 0.3s;
+                    }
+
+
+
+ #Texto p {
+            display: flex;
+            font-size: 15px;
+            margin-left: 8%;
+            margin-right: 20px;
+            text-align: justify;
+            }
+        #Texto h1{
+            align-items: center;
+            }
+       
+            #Imagenes{
+                display: flex;
+                flex-direction: column;
+                align-items: center;
+                margin-top: 100px;
+                margin-bottom: 50px;
+            }
+
+#DanteBio {
+    background-color: #633736;
+    font-size: 12px;
+    width: 147px;
+    margin-right: 436px;
+    }
+h2{
+            font-size: 18px;
+            display: flex;
+            justify-content: center;
+            }
+
+        #DanteBio p{
+        margin: 15px;
+        text-align: left;
+            }
+
+
+footer{
+        background-color: #823433;
+        color: white;
+        display: flex;
+        align-items: end; 
+        justify-content: space-between;
+        height: 50px;
+        width: 764px;
+        margin: 0px 0px 0px 0px;
+        }
+
+        footer nav a{
+            color: white;
+            text-decoration: none;
+            margin: 5px;
+            }
+
+            footer nav a:hover{
+                    background-color: #633736;
+                    color: white;
+                    transition: 0.3s;
+                    }
+
+        footer img{
+            display: flex;
+            align-items: center;
+            justify-items: start;
+        }
+
+
+footer p{
+    margin: 5px;
+    font-size: 10px;
+    }
+
+
