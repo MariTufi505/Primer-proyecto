@@ -2,7 +2,7 @@
 - Fue mi primer acercamiento al Frontend, utilizando HTML y CSS. Fue creada únicamente para practicar conceptos y uso de CSS. 
 
 - Aprendí:
-     Estructuras de HTML   
-     Enlazar y organizar archivos
-     Subir proyectos a GitHub
+     - Estructuras de HTML   
+     - Enlazar y organizar archivos
+     - Subir proyectos a GitHub
      
